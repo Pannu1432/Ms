@@ -3,10 +3,10 @@ class script(object):
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/MaHi_458>𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝙼𝙾𝚅𝙸𝙴𝚂 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/AGPS_KANNADA_HD_MOVIESS>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/AGPS_KANNADA_HD_MOVIESS>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙼𝙾𝚅𝙸𝙴𝚂 : <a href=https://t.me/AGPS_KANNADA_HD_MOVIESS>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/AGPS_KANNADA_HD_MOVIESS>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 2.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
@@ -14,7 +14,7 @@ class script(object):
 
 <b>DEVS:</b>
 ✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
+✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/AGPS_KANNADA_HD_MOVIESS>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
